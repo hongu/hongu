@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![프로젝트_00](https://github.com/hongu/etc/blob/master/project00.png)
-***
-![프로젝트_01](https://github.com/hongu/etc/blob/master/project02.png)
-***
+📫 놀다 가셈...
 <!--
 **hongu/hongu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
