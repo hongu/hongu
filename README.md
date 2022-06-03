@@ -2,7 +2,7 @@
 
 📫 놀다 가셈...
 
-https://github.com/hongu/hongu/blob/main/%EA%B7%B8%EB%83%A5%EB%AA%BB%EC%83%9D%EA%B9%80.PNG
+![그냥못생김](https://github.com/hongu/hongu/blob/main/%EA%B7%B8%EB%83%A5%EB%AA%BB%EC%83%9D%EA%B9%80.PNG)
 
 
 <!--
