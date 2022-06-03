@@ -2,7 +2,6 @@
 
 📫 놀다 가셈...
 
-![You_idot](https://github.com/hongu/hongu/blob/main/IMG_1999.JPG)  놀다 가셈...
 
 
 <!--
